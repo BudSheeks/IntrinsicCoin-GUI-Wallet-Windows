@@ -1,3 +1,3 @@
-[submodule "IntrinsicCoin"]
-	path = IntrinsicCoin
-	url = https://github.com/intrinsiccoin/IntrinsicCoin-GUI-Wallet.git
+[submodule "scordite"]
+	path = scordite
+	url = https://github.com/BudSheeks/XSD-GUI-Wallet-Windows.git
